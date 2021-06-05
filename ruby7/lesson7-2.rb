@@ -22,5 +22,4 @@ while i <= input do
   
   i += 1
 end
-
 puts "計算を終了します"
